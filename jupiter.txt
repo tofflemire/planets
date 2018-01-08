@@ -1,3 +1,6 @@
 This is a file where I keep notes about my trip to Jupiter.
 
 Jupiter is windier than I thought it would be, and my cell phone does not work, I think it's a dead zone.
+
+Always add a new line in vi, it makes it easier to make additions.
+
